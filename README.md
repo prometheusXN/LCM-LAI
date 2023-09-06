@@ -5,3 +5,9 @@ the juridical consistency between cases by referring to the relevance of the art
 distributions of cases. Besides, model also considers the semantic similarity of cases by evaluating
 the context of cases. By combining both semantic similarity and juridical consistency between cases, 
 this model achieves outstanding experimental performance.
+
+## Introduction
+
+## Data Processing
+
+## Usage
