@@ -1,4 +1,4 @@
-# LCM-LAI
+# LCM-LAI （under construction）
 In this fold, we implement the proposed Legal Case Retrieval(LCR) model, named **l**egal **c**ase
 **m**atching **n**etwork of **l**aw **a**rticle **i**ntervention **(LCM-LAI)**, which evaluates 
 the juridical consistency between cases by referring to the relevance of the article reference 
